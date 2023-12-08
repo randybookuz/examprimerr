@@ -1,0 +1,32 @@
+дек. 09, 2023 12:39:59 AM service.BookServiceImpl addBook
+INFO: addBook ishladi
+дек. 09, 2023 12:39:59 AM service.BookServiceImpl getBookByID
+INFO: getBookByID ishladi
+дек. 09, 2023 12:39:59 AM service.BookServiceImpl serialize
+INFO: serialize ishladi
+дек. 09, 2023 12:39:59 AM service.BookServiceImpl deserialize
+INFO: deserialize ishladi
+дек. 09, 2023 12:43:35 AM service.BookServiceImpl addBook
+INFO: addBook ishladi
+дек. 09, 2023 12:43:35 AM service.BookServiceImpl getBookByID
+INFO: getBookByID ishladi
+дек. 09, 2023 12:43:35 AM service.BookServiceImpl serialize
+INFO: serialize ishladi
+дек. 09, 2023 12:43:35 AM service.BookServiceImpl deserialize
+INFO: deserialize ishladi
+дек. 09, 2023 12:50:54 AM service.BookServiceImpl addBook
+INFO: addBook ishladi
+дек. 09, 2023 12:50:54 AM service.BookServiceImpl getBookByID
+INFO: getBookByID ishladi
+дек. 09, 2023 12:50:54 AM service.BookServiceImpl serialize
+INFO: serialize ishladi
+дек. 09, 2023 12:50:54 AM service.BookServiceImpl deserialize
+INFO: deserialize ishladi
+дек. 09, 2023 12:55:32 AM service.BookServiceImpl addBook
+INFO: addBook ishladi
+дек. 09, 2023 12:55:32 AM service.BookServiceImpl getBookByID
+INFO: getBookByID ishladi
+дек. 09, 2023 12:55:32 AM service.BookServiceImpl serialize
+INFO: serialize ishladi
+дек. 09, 2023 12:55:32 AM service.BookServiceImpl deserialize
+INFO: deserialize ishladi
